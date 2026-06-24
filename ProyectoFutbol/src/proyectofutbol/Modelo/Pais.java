@@ -64,7 +64,7 @@ public class Pais {
         this.nroParticipaciones = nroParticipaciones;
     }
     
-    // Método para representar textualmente los detalles del producto
+    // Método para representar textualmente los detalles del Pais
     @Override
     public String toString() {
         return "Nombre: " + nombre + 
